@@ -1,5 +1,5 @@
 Placeholder
-- What is this? —Let’s face it, this is a weird document. Give context on what this is and how to interpret it: to supplement getting to know each other.
+- What is this? This page provides info on what to expect if I am your leader. This is not an extensive list by any means but this provides enough information about my management style.
 
 - About Me / My Job — What are some common things people might like to know about you. Some people’s are more personal than others. If you want to get to know your team’s personal lives then start off by sharing yours.
 
