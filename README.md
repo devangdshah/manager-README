@@ -5,7 +5,21 @@ About me ! Devang Shah
 
 - Personal Principles / Values — What are your default assumptions about people and their intentions? What mindsets do you have and which do you hope other people adopt when working together on the team? What things trigger you?
 
-- One-on-Ones — What style of 1:1s do you want out of your team? Most above follow the weekly/bi-weekly, 30 min cadence, and the employee controls the agenda.
+- 1:1s(One-on-Ones) — What style of 1:1s do you want out of your team? Most above follow the weekly/bi-weekly, 30 min cadence, and the employee controls the agenda.
+
+**Importance**: 1:1 are super important to me as it dedicated time slot for us to talk on anything and everythign which YOU want to talk. Its about you and not about me ! 
+
+**Flexible:** We can change and shif the schedule as needed. If you prefere walk and talk 1:1 during sunny day or over coffee or in office conference room or move to some other time! I am cool with whatever option works best for you.  
+
+**Its not:** These meetngs are not a status report meetings unless you want to talk on this about some important project
+
+For any pressing needs, do not wait for 1:1 
+
+**Give and Take(Feedback):** Feebdack is important for continuous improvement/learning.
+
+**Changes**: Which can directly impact you
+
+
 
 - Feedback (how to give & how you give) — What type of feedback do you want? Are you comfortable with people being blunt with you? How do you prefer to give feedback? How do you expect your team to react to feedback?
 
