@@ -1,5 +1,7 @@
-About me ! Devang Shah
-- What is this? This page provides info on what to expect if I am your leader. This is not an extensive list by any means but this provides enough information about my management style.
+About me !  Devang Shah
+
+What is this ?
+This page provides info on what to expect if I am your leader. This is not an extensive list by any means but this provides enough information about my management style
 
 - About Me / My Job — What are some common things people might like to know about you. Some people’s are more personal than others. If you want to get to know your team’s personal lives then start off by sharing yours.
 
@@ -17,7 +19,10 @@ For any pressing needs, do not wait for 1:1
 
 **Give and Take(Feedback):** Feebdack is important for continuous improvement/learning.
 
-**Changes**: Which can directly impact you
+**Changes**: Discussion on updates which can directly impact you
+**Personal performance scales: =** 
+
+My goal is to have not surprises on peformance and provide early and often feedback. Red/Orange/Green. While Green and Red are clear indicators, orange can open to interpretation/dicssion.
 
 
 
@@ -32,11 +37,5 @@ Many also include the following:
 - D.R.I. Principle — Not everyone is a believer in Directly Responsible Individual principle, but if you are it can be very powerful. First, though, you need to set the expectation that they take that responsibly.
 Done? Ship it!
 
-How? Consensus from the authors I’ve talked to seems to be:
-
-1. The most effective way to deliver the document is to take employees through it in a 1:1.
-
-2. Easiest time to start is during an employee’s on-boarding. Their on-boarding or your own (if you’re inheriting a team)
-You made it to the end!
 
 
